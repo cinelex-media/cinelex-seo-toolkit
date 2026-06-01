@@ -1,0 +1,7 @@
+# Basic robots.txt example for WordPress websites
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.example.com/sitemap.xml
