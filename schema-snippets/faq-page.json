@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is technical SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Technical SEO improves how search engines crawl, index and understand a website."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is structured data useful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Structured data helps search engines understand important information about a page, business, product or service."
+      }
+    }
+  ]
+}
