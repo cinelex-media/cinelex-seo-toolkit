@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Example Local Business",
+  "url": "https://www.example.com",
+  "telephone": "+1-000-000-0000",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Example Street 1",
+    "addressLocality": "Example City",
+    "postalCode": "00000",
+    "addressCountry": "US"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "09:00",
+      "closes": "17:00"
+    }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/example",
+    "https://www.instagram.com/example"
+  ]
+}
